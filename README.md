@@ -32,9 +32,9 @@ Pandas, NumPy – Data cleaning & manipulation
 
 Matplotlib, Seaborn, Plotly – Data visualization
 
-Streamlit / Flask / Dash / React – Interactive web app (mention which one you used)
+Streamlit – Interactive web app 
 
-Heroku / Streamlit Cloud / Vercel – Deployment (if applicable)
+Heroku – Deployment 
 
 📊 Insights & Visualizations
 
